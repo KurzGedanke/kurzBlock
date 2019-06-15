@@ -1,4 +1,4 @@
-# A personal blocklist currated by KurzGedanke.
+# A personal blocklist curated by KurzGedanke.
 # You may use it with your own adblock or PiHole
 # but it may block some services which you like to use
 # feel free to fork it!
